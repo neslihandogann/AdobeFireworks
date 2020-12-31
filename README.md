@@ -1,2 +1,1 @@
-# Animasyon_ornekleri
-animasyon bir ayrıcalıktır....     : )
+# Adobe Fİreworks_ornekleri
